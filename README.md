@@ -10,8 +10,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Leynia/PainGenerator/blob/main/resources/PAIN.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Leynia/PainGenerator">
+    <img src="https://github.com/Leynia/PainGenerator/blob/main/resources/PAIN.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">PainGenerator</h3>
@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Pain Generator][product-screenshot]
+![product-screenshot]
 
 Created by Leia
 </br>
@@ -67,7 +67,7 @@ This page is just an easy way to get the source code in case you'd like to tinke
 
 * A python environment
 
-# Required Packages:
+#### Required Packages:
 
 * Pillow
 * NLTK
