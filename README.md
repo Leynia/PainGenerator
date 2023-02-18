@@ -17,7 +17,7 @@
 <h3 align="center">PainGenerator</h3>
 
   <p align="center">
-    A small Python program to generate textures based on the video game Cruelty Squad
+    A small Python program to generate textures based on the video game Cruelty Squad.
     <br />
 </div>
 
@@ -48,20 +48,21 @@
 
 ![product-screenshot]
 
-Created by Leia
+Created by Leia.
 </br>
-Original textures and concept from Cruelty Squad by Ville Kallio, Consummer Softproducts
+Original textures and concept from Cruelty Squad by Ville Kallio, Consummer Softproducts.
 </br>
-</br>
+
 Pain Generator is a small python program which allows you to generate random images in the style of the 'PUNISHMENT' texture from the Cruelty Squad level MALL MADNESS,
 there is also the option for the texture to be generated based on user input.
 </br>
 I learned Python with this project which is why the code is badly written, mismatched, and probably not very efficient ;).
 </br>
+
+This page is just an easy way to get the source code in case you'd like to tinker with the program and run it in your own python environment, for a fully functional .exe with no requirements needed, head to [https://crus.cc/mod/pain_generator/](https://crus.cc/mod/pain_generator/).
 </br>
-This page is just an easy way to get the source code in case you'd like to tinker with the program and run it in your own python environment, for a fully functional .exe with no requirements needed, head to [https://crus.cc/mod/pain_generator/](https://crus.cc/mod/pain_generator/)
-<br>
-This github repo contains a pregenerated .spec file to easily build the program using the PyInstaller package if you wish to make your own .exe
+
+This github repo contains a pregenerated .spec file to easily build the program using the PyInstaller package if you wish to make your own .exe.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,25 +80,25 @@ This github repo contains a pregenerated .spec file to easily build the program 
 
 Random/User Generated Checkbox = Switch between random or user input-based generation.
 </br>
+
+[User input-based mode] Word = Word you'd like to have on the texture.
 </br>
-[User input-based mode] Word = Word you'd like to have on the texture
+
+[User input-based mode] Hex Value 1, 2, Reset Hex = The color you would like to have as a gradient on the texture, must be in HEX value (Example : White = #FFFFFF), Reset Hex button resets to the basic program values (Red and Blue).
 </br>
+
+[Random mode] How many images would you like to generate = The number of image you would like to be randomly generated. 1 -> 100.
 </br>
-[User input-based mode] Hex Value 1, 2, Reset Hex = The color you would like to have as a gradient on the texture, must be in HEX value (Example : White = #FFFFFF), Reset Hex button resets to the basic program values (Red and Blue)
-</br>
-</br>
-[Random mode] How many images would you like to generate = The number of image you would like to be randomly generated. 1 -> 100
-</br>
-</br>
+
 [Random mode] Wordlist = This program has three built in wordlists, "Cyberpunk AF" is a wordlist based upon William Gibson's "SPRAWL" trilogy of books. "TempleOS" is based upon the OS and writings of Terry A. Davis. "1894" is based upon the classic book "1984" by George Orwell.
 </br>
-</br>
+
 The lists have been carefully crafted but are large ('Cyberpunk AF' = ~21000 words, 'TempleOS' = ~7000 words, '1894' = ~7000 words), they are not supposed to contain any words which may be interpreted as offensive to any group, but if you find one, please contact me on Discord.
 </br>
-</br>
+
 Output Folder = where you would like the images to be saved. Default folder is the "Results" folder bundled along with the software.
 </br>
-</br>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
