@@ -36,7 +36,7 @@ The code for this software is open source and can be found at:
 https://github.com/Leynia/PainGenerator
 
 # License:
-
+ 
 [The Unlicense] https://choosealicense.com/licenses/unlicense/
 (Public Domain)
 
