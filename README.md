@@ -66,8 +66,9 @@ This page is just an easy way to get the source code in case you'd like to tinke
 ### Requirements
 
 * A python environment
-</br>
-Packages:
+
+# Required Packages:
+
 * Pillow
 * NLTK
 * PySimpleGUI
