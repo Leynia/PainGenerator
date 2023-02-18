@@ -101,6 +101,11 @@ Output Folder = where you would like the images to be saved. Default folder is t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Plans for the future
+
+- [ ] Create a Discord Bot which automatically generates images every `x` amount of time and posts it on the server.
+- [ ] Create a lite WebUI version of PainGenerator which can run in a website.
+
 <!-- LICENSE -->
 ## License
 
