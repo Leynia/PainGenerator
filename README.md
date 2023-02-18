@@ -60,6 +60,8 @@ I learned Python with this project which is why the code is badly written, misma
 </br>
 </br>
 This page is just an easy way to get the source code in case you'd like to tinker with the program and run it in your own python environment, for a fully functional .exe with no requirements needed, head to [https://crus.cc/mod/pain_generator/](https://crus.cc/mod/pain_generator/)
+<br>
+This github repo contains a pregenerated .spec file to easily build the program using the PyInstaller package if you wish to make your own .exe
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
