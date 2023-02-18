@@ -1,5 +1,5 @@
 # PAIN GENERATOR v1.0.0
-Created by Leia (discord contact: Leia#4939)
+Created by Leia (discord contact: Leia#4939).
 Original textures and concept from Cruelty Squad by Ville Kallio, Consummer Softproducts
 
 Pain Generator is a smmall python program which allows you to generate random images in the style of the 'PUNISHMENT' texture from the Cruelty Squad level MALL MADNESS,
